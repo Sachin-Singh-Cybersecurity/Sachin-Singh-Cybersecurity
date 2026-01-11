@@ -17,3 +17,4 @@
 ## Progress
 - Total Course Hours: 4 + 9 = 13/560 hours (2.3%)
 - VMs Ready: 2/4 (Kali, Ubuntu)
+
