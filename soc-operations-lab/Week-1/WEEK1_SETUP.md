@@ -22,8 +22,8 @@ Build working Splunk environment with basic log ingestion
 - Access: localhost:8000
 
 ### Screenshots
-Screenshot 1: Splunk home page (after login)
-Screenshot 2: Indexes configured
+Screenshot 1: Splunk home page (after login)\
+Screenshot 2: Indexes configured\
 Screenshot 3: Search results
 
 ## Next Steps
